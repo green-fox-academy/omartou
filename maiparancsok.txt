@@ -1,0 +1,405 @@
+    1  git --version
+    2  git --version
+    3  git config --global user.email "omar.toure@yahoo.com
+    4  git config --global user.name "omartou"
+    5  ~/Desktop/myapp
+    6  -/Desktop/myapp
+    7  touch index.html
+    8  $touch index.html
+    9  -/desktop/myapp
+   10  -/Desktop/myapp
+   11  git --version
+   12  git --version
+   13  git config --globar user.email "omar.toure@yahoo.com
+   14  git config --globar user.email "omar.toure@yahoo.com
+   15  git version --
+   16  git config --global user.email "omar.toure@yahoo.com
+   17  git config --global user.email "omar.toure@yahoo.com
+   18  git config --global user.name "omartou"
+   19  -/Desktop/myapp
+   20  $-/Desktop/myapp
+   21  -/desktop/myapp
+   22  git status
+   23  pwdd
+   24  pwd
+   25  git --version
+   26  git status
+   27  git status
+   28  ls
+   29  mkdoc
+   30  mkdocuments
+   31  cd myapps
+   32  open. myapps
+   33  open. desktop/myapps
+   34  touch index.html
+   35  touch app.js
+   36  defaults write com.apple.finder AppleShowAllFiles TRUE ; killall Finder
+   37  defaults write com.apple.finder AppleShowAllFiles TRUE ; killall Finder
+   38  defaults write com.apple.finder AppleShowAllFiles TRUE
+   39  defaults write com.apple.finder AppleShowAllFiles TRUE ; killall Finder
+   40  git init
+   41  git config --global user.name 'omartou'
+   42  git config --global user.email 'omar.toure@yahoo.com'
+   43  git status
+   44  git add index.html
+   45  git status
+   46  git add.
+   47  git --help
+   48  add
+   49  add index.html
+   50  git add index.html
+   51  git status
+   52  git rm --cached index.html
+   53  git status
+   54  git add app.js
+   55  git rm --cached app.js
+   56  git status
+   57  git rm --cached index.html
+   58  git commit
+   59  git status
+   60  git add index.html
+   61  git add app.js
+   62  git status
+   63  git version --
+   64  git version --
+   65  pwd
+   66  ls
+   67  ls -a
+   68  ls -l
+   69  ls -la
+   70  man ls
+   71  pwd
+   72  cd Git/
+   73  mkdir zigzagCli
+   74  cd zigzagCli/
+   75  cd../..
+   76  cd ../..
+   77  cd zigzagCli
+   78  cd zigzagCli/
+   79  touch hello.txt
+   80  ls
+   81  mkdir zigzagCli
+   82  -l
+   83  echo hello
+   84  echo
+   85  ls
+   86  ls > echo
+   87  mkdir zigzagCli
+   88  mkdir zigzagCli/
+   89  nano
+   90  sort --help
+   91  git init
+   92  pwd
+   93  mkdir file.txt
+   94  mkdir mappa
+   95  pwd
+   96  clear
+   97  git --version
+   98  git --version
+   99  mkdir greenfox
+  100  cd greenfox
+  101  pwd
+  102  cd greenfox
+  103  cd .
+  104  cd ..
+  105  cd greenfox
+  106  touch index.html
+  107  ls
+  108  touch greenfox.jpg
+  109  list
+  110  ls
+  111  touch greenfox.css
+  112  ls
+  113  rm greenfox.jpg
+  114  ls
+  115  rm greenfox.css 
+  116  ls
+  117  mkdir greenfox.jpg
+  118  ls
+  119  rm greenfox.jpg
+  120  ls
+  121  rm greenfox.jpg
+  122  status
+  123  pwd
+  124  cd ..
+  125  rm greenfox.jpg
+  126  ls
+  127  cd greenfox
+  128  mkdir jpg
+  129  cd ..
+  130  rm -r greenfox
+  131  mkdir greenfox
+  132  mkdir jpg
+  133  jpg > greenfox
+  134  cd greenfox
+  135  touch index.html
+  136  mkdir css
+  137  mkdir jpg
+  138  cd jpg
+  139  cd ..
+  140  touch first task
+  141  ls
+  142  rm task
+  143  ls
+  144  rm first
+  145  ls
+  146  mkdir first-task
+  147  mv jpg image
+  148  mv ~/css first-task
+  149  ls
+  150  mv css ~first-task
+  151  mv first-task css
+  152  mv css first-task
+  153  mv ~first-task css
+  154  ls
+  155  mv css ~/first-task
+  156  cd first-task
+  157  ls
+  158  cd greenfox
+  159  cd..
+  160  cd ..
+  161  ls
+  162  mkdir css
+  163  mv css first-task
+  164  mv image first-task
+  165  mv index.html first task
+  166  ls
+  167  mv index.html first-task
+  168  git --version
+  169  git config --global user.name Toure Omar
+  170  git config --global user.email omar.toure@yahoo.com
+  171  mkdir hello-world
+  172  cd hello-world/
+  173  git init
+  174  git status
+  175  nano
+  176  status
+  177  git status
+  178  git add readme.txt
+  179  git commit -m Created readme
+  180  git commit -m 'Created readme'
+  181  git diff
+  182  git status
+  183  cd
+  184  nano .gitconfig
+  185  git config --global user.username omartou
+  186  git config --global user.username
+  187  cd hello-world
+  188  cd greenfox
+  189  cd hello-world
+  190  git remote add origin https://github.com/green-fox-academy/helllo-world.git
+  191  git push origin master
+  192  git push origion master
+  193  cd hello-world
+  194  git push origin master
+  195  cd ..
+  196  git clone https://github.com/omartou/patchwork.git
+  197  cd patcwork
+  198  cd patchwork
+  199  git remote -v
+  200  git remote add upstream https://github.com/jlord/patchwork.git
+  201  git remote -v
+  202  cd ..
+  203  git clone https://github.com/omartou/git-lesson-repository.git
+  204  cd git-lesson-repository
+  205  ls
+  206  touch about.html
+  207  rm about.html 
+  208  cp index.html about.html
+  209  mkdir temp_images
+  210  mv 1.jpg temp_images/
+  211  cp 1.jpg temp_images
+  212  cp 1.jpg temp_images
+  213  cp ~/1.jpg ~/temp_images
+  214  cd images
+  215  ls
+  216  cp 1.jpg ~/temp_images
+  217  ls
+  218  cd temp_images
+  219  ls
+  220  cd ..
+  221  cd temp_images
+  222  ls
+  223  cp ~/images/1.jpg temp_images
+  224  cp ~/images/1.jpg ~/temp_images
+  225  cd ..
+  226  cp images/1.jpg temp_images/
+  227  cd temp_images/
+  228  ls
+  229  cd ..
+  230  cd images/2.jpg temp_images/
+  231  cd temp_images/
+  232  ls
+  233  cd ..
+  234  cp images/2.jpg temp_images/
+  235  cd temp_images
+  236  ls
+  237  cp images/3.jpg temp_images/
+  238  cd ..
+  239  cp images/3.jpg temp_images/
+  240  cp images/4.jpg temp_images/
+  241  cp images/5.jpg temp_images/
+  242  mv css/6.jpg images/
+  243  mv css/7.jpg images/
+  244  rm images/7.jpg
+  245  cd css
+  246  git status
+  247  pwd
+  248  cd ..
+  249  git add -a
+  250  git add -A
+  251  git status
+  252  git restore temp_images/2.jpg 
+  253  git status
+  254  git rm temp_images/2.jpg 
+  255  git status
+  256  git restore --staged temp_images/2.jpg 
+  257  git status
+  258  git add -A
+  259  git status
+  260  git commit -m "copy images"
+  261  git status
+  262  git push
+  263  git config --global user.name omartou
+  264  git config --global user.email omar.toure@yahoo.com
+  265  git status
+  266  git push
+  267  echo "hello" > logfile.txt
+  268  ls
+  269  rm logfile.txt 
+  270  ls
+  271  echo "hello" > logfile.txt
+  272  ls
+  273  ls
+  274  ehco hello
+  275  ls
+  276  cat valami.txt
+  277  git cat valami.txt
+  278  ls
+  279  cat logfile.txt > logfile2.txt
+  280  ls
+  281  nano
+  282  nano logfile2.txt
+  283  echo < logfile.txt
+  284  ls
+  285  git status
+  286  nano logfile.txt
+  287  cat logfile.txt | echo
+  288  cat logfile.txt
+  289  echo hello
+  290  cat < logfile2.txt
+  291  nano logfile2.txt
+  292  wc -l < myoutput
+  293  wc -l myoutput
+  294  cat myoutput
+  295  cat logfile2.txt
+  296  cat > logfile2.txt
+  297  cat logfile2.txt > logfile.txt
+  298  cat logfile2.txt
+  299  nano logfile2.txt
+  300  cat logfile2.txt
+  301  nano logfile.txt
+  302  cat logfile2.txt > logfile.txt
+  303  cat logfile.txt
+  304  cat logfile2.txt
+  305  cat index.html 
+  306  wc -help
+  307  wc --help
+  308  wc --h
+  309  man wc
+  310  wc -w index.html
+  311  cat index.html > wc -w
+  312  cat index.html | wc
+  313  cat index.html | wc -w
+  314  history
+  315  touch maiparancsok.txt
+  316  history
+  317  history > maiparancsok.txt 
+  318  cat maiparancsok.txt 
+  319  sort maiparancsok.txt 
+  320  touch data.txt
+  321  nano data.txt 
+  322  sort data.txt 
+  323  sort data.txt > sort.txt
+  324  nano sort.txt
+  325  cat sort.txt
+  326  nano data.txt 
+  327  git clone https://github.com/green-fox-academy/omartou.git
+  328  cd ..
+  329  git clone https://github.com/green-fox-academy/omartou.git
+  330  git clone https://github.com/green-fox-academy/omartou.git
+  331  git clone https://github.com/green-fox-academy/omartou.git
+  332  cd omartou
+  333  ls -la
+  334  mkdir week-01
+  335  cd week-01/
+  336  mkdir day-2
+  337  mkdir day-3
+  338  cd blog
+  339  cd blog
+  340  cd ..
+  341  cd blog
+  342  cd Blog
+  343  ls
+  344  pwd
+  345  cd ..
+  346  cd ..
+  347  cd ..
+  348  cd omartoure
+  349  ls
+  350  cd Desktop/
+  351  ls
+  352  ls -l
+  353  cd Blog
+  354  cp BLOG ../../greenfox/omartou/week-01/day-2
+  355  cp -r BLOG ../../greenfox/omartou/week-01/day-2
+  356  cd greenfox
+  357  cd ..
+  358  cd ls
+  359  pwd
+  360  pwd
+  361  cd omartoure
+  362  ls
+  363  cd ..
+  364  ls
+  365  cd greenfox
+  366  ls
+  367  cd omartou/
+  368  ls
+  369  cd week-01/
+  370  ls
+  371  cd day-2
+  372  ls
+  373  cd BLOG
+  374  ls
+  375  git status
+  376  git add m
+  377  git add .
+  378  git status
+  379  git commit -m "added blog files"
+  380  git status
+  381  git push
+  382  cd ..
+  383  ls
+  384  cd ..
+  385  ls
+  386  cd ..
+  387  ls
+  388  cd ..
+  389  ls
+  390  cd ..
+  391  ls
+  392  cd greenfox/
+  393  ls
+  394  cd omartou/
+  395  ls
+  396  touch .gitignore
+  397  nano .gitignore
+  398  git status
+  399  git add .
+  400  git status
+  401  git commit
+  402  git status
+  403  git push
+  404  history
+  405  history > maiparancsok.txt
