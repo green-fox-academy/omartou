@@ -15,9 +15,9 @@ public class PositionSquare {
 
         int a = 25;
         int b = 25;
-        drawsOneSquare(graphics, a, b);
+     //   drawsOneSquare(graphics, a, b);
 
-        for (int i = 0; i < 3; i++) {
+        for (int i = 1; i < 4; i++) {
             drawsOneSquare(graphics, a * i, b * i);
 
         }

@@ -25,10 +25,10 @@ public class Reverse {
         //6=4
         aj[3] = a;
 
-        for (int i = 0; i<aj.length;i++) {
+        for (int i = 0; i < aj.length; i++) {
             System.out.println(aj[i]);
         }
 
 
-        }
     }
+}

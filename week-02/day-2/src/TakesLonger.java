@@ -15,7 +15,6 @@ public class TakesLonger {
         String quote = "Hofstadter's Law: It you expect, even when you take into account Hofstadter's Law.";
         String quoteToInsert = "always takes longer than ";
 
-
         StringBuilder stringBuilder = new StringBuilder(quote);
         int index = quote.indexOf("you");
        // System.out.println(index);

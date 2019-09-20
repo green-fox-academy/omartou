@@ -20,6 +20,7 @@ public class GoToCenter {
         }
 
     }
+
     public static void drawSingleLineToCenter(Graphics g, int x, int y) {
 
 

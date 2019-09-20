@@ -11,7 +11,7 @@ public class printElements {
 
         int[] numbers = {4, 5, 6, 7};
 
-        for (int i: numbers){
+        for (int i : numbers) {
             System.out.println(i);
         }
 

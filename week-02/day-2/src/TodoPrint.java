@@ -18,6 +18,7 @@ public class TodoPrint {
                  - Diablo
 
          */
+
         String todoText = " - Buy milk\n";
         String todoText1 = "My todo:\n";
         String todoText2 = " \t- Download games\n";
