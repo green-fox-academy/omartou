@@ -16,7 +16,7 @@ public class WriteSingleLine {
         In case the program is unable to write the file,
         It should print the following error message: "Unable to write file: my-file.txt"
          */
-        manipulate("src/my-fie.txt");
+        manipulate("src/my-file.txt");
 
     }
     public static void manipulate(String fileName) {
