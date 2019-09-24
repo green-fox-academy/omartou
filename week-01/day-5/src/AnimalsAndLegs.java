@@ -7,7 +7,6 @@ public class AnimalsAndLegs {
 
         Scanner input = new Scanner(System.in);
 
-
         int chickensLegs;
         int pigsLegs;
 
@@ -25,29 +24,14 @@ public class AnimalsAndLegs {
 
         System.out.println(chickensLegs+pigsLegs);
 
-
-
-
-
-
-
         /*chickensLegs = input.nextInt();
         System.out.println("Chickens has:" );
 
         System.out.println("Number of pigs");
         pigsLegs = input.nextInt();
 
-
-
-
         System.out.println("Chickens and pigs has:" + (chickensLegs) * (pigsLegs));
 
          */
-
-
-
-
-
-
     }
 }

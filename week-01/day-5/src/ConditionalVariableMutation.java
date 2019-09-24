@@ -1,4 +1,5 @@
 import java.util.Scanner;
+
 public class ConditionalVariableMutation {
 
     public static void main(String[] args) {
@@ -11,7 +12,6 @@ public class ConditionalVariableMutation {
         if ((a % 2 == 0)) {
             System.out.println();
         */
-
 
         /*
         int b = 13;
@@ -27,8 +27,6 @@ public class ConditionalVariableMutation {
         } else if (b > 20) {
             System.out.println("more");
         }
-
-
          */
 
         /*
@@ -43,21 +41,18 @@ public class ConditionalVariableMutation {
         } else if (isBonus) {
             System.out.println(c);
         }
-
         */
 
         int d = 9;
         int time = 100;
 
-        if ((d % 4 == 0) && time < 200 ){
+        if ((d % 4 == 0) && (time < 200)) {
             System.out.println("check");
         } else if (time > 200) {
             System.out.println("time out");
-        } else if (d % 4 != 0) {
+        } else {
             System.out.println("run Forest run!");
         }
-
-
     }
 }
 
