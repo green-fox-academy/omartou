@@ -19,11 +19,5 @@ public class TwoNumbers {
         System.out.println(d);
 
         System.out.println(b % a);
-
-
-
-
-
-
     }
 }

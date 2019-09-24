@@ -41,14 +41,10 @@ public class VariableMutation {
         System.out.println(i1 > (i2 * i2));
         System.out.println(i1 < (i2 * i2 * i2));
 
-
-
         System.out.println("-------");
-
 
         int j = 1521;
 
         System.out.println((j % 5) == 0 || (j % 3) == 0);
-
     }
 }

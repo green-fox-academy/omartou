@@ -10,8 +10,5 @@ public class IntroduceYourself {
         System.out.println(name);
         System.out.println(age);
         System.out.println(height);
-
-
-
     }
 }

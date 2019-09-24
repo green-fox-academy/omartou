@@ -12,6 +12,5 @@ public class DefineBasicInfo {
         System.out.println(myAge);
         System.out.println( myHeight);
         System.out.println("I am not married:" + notMarried);
-
     }
 }

@@ -18,13 +18,5 @@ public class CodingHours {
         float workHoursDaily = 10.4f;
 
         System.out.println((hoursTotal / 100) * workHoursDaily);
-
-
-
-
-
-
-
-
     }
 }
