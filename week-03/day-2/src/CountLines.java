@@ -16,7 +16,7 @@ public class CountLines {
          should not raise any error.
          */
        // takeFileName("src/my-file.txt");
-        System.out.println(takeFileName("src/ertt.txt"));
+        System.out.println(takeFileName("src/my-file.txt"));
     }
     public static int takeFileName(String fileName) {
         Path filePath = Paths.get(fileName);
