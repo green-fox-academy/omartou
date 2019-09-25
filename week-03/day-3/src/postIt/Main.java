@@ -13,6 +13,5 @@ public class Main {
         firstPost.printIt();
         secondPost.printIt();
         thirdPost.printIt();
-
     }
 }

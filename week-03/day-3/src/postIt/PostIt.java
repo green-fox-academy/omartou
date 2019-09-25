@@ -14,6 +14,7 @@ public class PostIt {
         this.text = text;
         this.textColor = textColor;
     }
+
     public void printIt() {
         System.out.println(text);
         System.out.println(backgroundColor);
