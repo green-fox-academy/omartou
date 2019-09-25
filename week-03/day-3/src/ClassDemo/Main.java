@@ -4,7 +4,7 @@ package ClassDemo;
 public class Main {
 
     public static void main(String[] args) {
-	// write your code here
+        // write your code here
         ZigZagStudents firstStudent = new ZigZagStudents("Geza");
         ZigZagStudents secondStudent = new ZigZagStudents("Joli");
         ZigZagStudents thirdStudent = new ZigZagStudents("Sanyi", 2, 120);
@@ -15,6 +15,6 @@ public class Main {
         introduction = thirdStudent.introduce();
         System.out.println(introduction);
 
-       // ZigZagStudents.numberOfDNAPairs;
+        // ZigZagStudents.numberOfDNAPairs;
     }
 }
