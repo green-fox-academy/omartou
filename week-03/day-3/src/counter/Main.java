@@ -48,5 +48,4 @@ class Main {
         c.reset();
         assertEquals(7, c.get());
     }
-
 }
