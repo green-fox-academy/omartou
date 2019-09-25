@@ -34,6 +34,6 @@ public class FleetOfThings {
         fourthThing.complete();
         System.out.println(firstFleet.toString());
 
-       // System.out.println();
+        // System.out.println();
     }
 }
