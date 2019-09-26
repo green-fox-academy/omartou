@@ -5,26 +5,22 @@ public class Animal {
     int hunger = 50;
     int thirst = 50;
 
-
     public Animal() {
 
-        //hunger = hunger;
-        //thirst = thirst;
-        //hunger = 50;
-        //thirst = 50;
-
     }
-
     public void eat() {
-        this.hunger--;
+        hunger--;
     }
-
     public void drink() {
-        this.thirst--;
+        thirst--;
     }
-
     public void play() {
-        this.hunger++;
-        this.thirst++;
+        hunger++;
+        thirst++;
+    }
+    public void status() {
+        System.out.println(hunger);
+        System.out.println(thirst);
     }
 }
+

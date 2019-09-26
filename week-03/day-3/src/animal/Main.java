@@ -4,16 +4,13 @@ public class Main {
 
     public static void main(String[] args) {
 
-        Animal firstAnimal = new Animal();
-        Animal secondAnimal = new Animal();
-        Animal thirdAnimal = new Animal();
+        Animal fox = new Animal();
+        Animal horse = new Animal();
+        Animal dog = new Animal();
 
-        firstAnimal.eat();
-        secondAnimal.drink();
-        thirdAnimal.play();
-
-        System.out.println(firstAnimal.hunger);
-        System.out.println(secondAnimal.thirst);
-        System.out.println(thirdAnimal.hunger + " " + thirdAnimal.thirst);
+        fox.eat();
+        System.out.println(fox.hunger);
+        fox.drink();
+        System.out.println(fox.thirst);
     }
 }

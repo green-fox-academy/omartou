@@ -6,7 +6,9 @@ public class Main {
 
     public static void main(String[] args) {
 
-        Sharpie sharpieOne = new Sharpie(Color.RED, 10.0f);
-        sharpieOne.use();
+        Sharpie blueSharpie = new Sharpie(Color.BLUE, 23.2f);
+
+        blueSharpie.use();
+        System.out.println(blueSharpie.inkAmount);
     }
 }
