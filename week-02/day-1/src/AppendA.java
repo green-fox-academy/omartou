@@ -9,7 +9,5 @@ public class AppendA {
             animals[i] = animals[i] + "a";
             System.out.println(animals[i]);
         }
-
-
     }
 }

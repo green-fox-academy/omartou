@@ -11,14 +11,11 @@ public class AppendA2 {
          Print the result of `appendAFunc(typo)`
          */
 
-        String typo = ("Chinchill");
+        String typo = "Chinchill";
         System.out.println(appendAFunc(typo));
     }
-
-    public static String appendAFunc(String x) {
-
-        x = x + "a";
-        return x;
+    public static String appendAFunc(String word) {
+        word = word + "a";
+        return word;
     }
-
 }
